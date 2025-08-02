@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Selenium, REST Assured, Postman**
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at [coming soon...]
 
 - 📫 How to reach me **surensuren1369@gmail.com**
 
