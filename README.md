@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surensuren1209" alt="surensuren1209" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/noaha1209" target="blank"><img src="https://img.shields.io/twitter/follow/noaha1209?logo=twitter&style=for-the-badge" alt="noaha1209" /></a> </p>
-
 - 🔭 I’m currently working on **Eye Closure Detection using Python & OpenCV**
 
 - 🌱 I’m currently learning **Java, Selenium, REST Assured, Postman**
@@ -33,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surensuren1209&show_icons=true&locale=en" alt="surensuren1209" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surensuren1209&" alt="surensuren1209" /></p>
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/suren1209?theme=dark&font=Yusei%20Magic&ext=heatmap)
