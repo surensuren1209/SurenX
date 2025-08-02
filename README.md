@@ -33,4 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surensuren1209&" alt="surensuren1209" /></p>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/suren1209?theme=dark&font=Yusei%20Magic&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/suren1209?theme=light&font=Strait&ext=activity)
