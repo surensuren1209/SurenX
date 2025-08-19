@@ -8,8 +8,12 @@
 - 🔭 I’m currently working on **Eye Closure Detection using Python & OpenCV**
 
 - 🌱 I’m currently learning **Java, Selenium, REST Assured, Postman**
+- <p align="Left">
+  <a href="https://suren-portfolio-site.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome" alt="portfolio"/>
+  </a>
+</p>
 
-- 👨‍💻 All of my projects are available at [coming soon...]
 
 - 📫 How to reach me **surensuren1369@gmail.com**
 
